@@ -1,4 +1,4 @@
-# Kaicheng Chen's personal webpage
+# Kaicheng Chen
 
 I am a PhD candidate in the Department of Economics at Michigan State University. 
 
